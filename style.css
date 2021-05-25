@@ -1,0 +1,10 @@
+.carousel-img img{
+    height: 85vh;
+}
+
+.accordion-item{
+    border: none;
+}
+.accordion-border{
+    border-top: 1px solid #10b6de;
+}
